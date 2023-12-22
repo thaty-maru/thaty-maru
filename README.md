@@ -26,7 +26,7 @@ Olá. Sou Thatianne Maruyama, analista de testes de software com foco em gerenci
 
 ### Meus Principais Desafios
 
-[![Python Norte 2023 - ORG](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/elidianaandrade/dio-lab-open-source](https://github.com/PyNorte/pynorte2023-org))
+[![Python Norte 2023 - ORG](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([[https://github.com/elidianaandrade/dio-lab-open-source](https://github.com/PyNorte/pynorte2023-org)](https://github.com/PyNorte/pynorte2023-org))
 
 <!---
 thaty-maru/thaty-maru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
