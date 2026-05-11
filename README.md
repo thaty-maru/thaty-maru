@@ -1,6 +1,6 @@
-# Thatianne Maruyama
+# Thatianne Maruyama Luchsinger
 
-Olá. Sou Thatianne Maruyama, analista de testes de software com foco em gerenciamento do processo de testes manuais e levantamento de requisitos. Estou há 4 anos no mercado de qualidade de software, tenho conhecimento nas áreas de gerenciamento de qualidade de software, processos de teste de software, levantamento de requisitos, estórias de usuário, elaboração de testes manuais, execução de testes manuais de regressão, exploratório, usabilidade e aceitação, e iniciando na automação de testes de software. Tenho mais experiência com sistemas Web e API, mas tenho conhecimento de testes em dispositivos móveis também.
+Olá. Sou Thatianne Maruyama, analista de testes de software com foco em gerenciamento do processo de testes manuais e levantamento de requisitos. Estou há 7 anos no mercado de qualidade de software e tenho conhecimento nas áreas de gerenciamento de qualidade de software, processos de teste de software, levantamento de requisitos, estórias de usuário, elaboração de testes manuais, execução de testes manuais de regressão, exploratórios, usabilidade e aceitação e iniciando na automação de testes de software. Tenho mais experiência com sistemas Web e API, mas tenho conhecimento de testes em dispositivos móveis também.
 
 ### Conecte-se comigo
 
