@@ -22,11 +22,14 @@ Olá. Sou Thatianne Maruyama, analista de testes de software com foco em gerenci
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaty-maru&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaty-maru&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaty-maru&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaty-maru)
 
 ### Meus Principais Desafios
 
 [![Python Norte 2023 - ORG](https://github-readme-stats.vercel.app/api/pin/?username=PyNorte&repo=pynorte2023-org&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PyNorte/pynorte2023-org)
+[![Cypress - Teste E2E](https://github-readme-stats.vercel.app/api/pin/?username=thaty-maru&repo=testes-e2e-com-cypress-v2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaty-maru/testes-e2e-com-cypress-v2)
+[![Cypress - Básico](https://github-readme-stats.vercel.app/api/pin/?username=thaty-maru&repo=cypress-basico-v2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaty-maru/cypress-basico-v2)
+[![Cypress - Intermediário](https://github-readme-stats.vercel.app/api/pin/?username=thaty-maru&repo=cypress-intermediario-v2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaty-maru/cypress-intermediario-v2)
 
 <!---
 thaty-maru/thaty-maru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
